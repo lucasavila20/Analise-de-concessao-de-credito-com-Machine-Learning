@@ -1,0 +1,1 @@
+Estudo feito inteiramente por conta própria visando compreender melhor as aplicações de data science na concessão de crédito. É apresentado um relatório em Python com todo o desenvolvimento do problema.
